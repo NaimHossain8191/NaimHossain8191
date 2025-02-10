@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Code+Latin&weight=500&size=25&pause=1000&color=53F7C4&width=462&height=40&lines=One+keystroke.+Infinite+possibilities.)](https://git.io/typing-svg)
 # 💫 About Me:
 🔭 I’m currently a 12 Grade Student from Bangladesh<br>🌱 I’m currently learning C++<br>💬 Ask me about anything related to programming<br>⚡ Fun fact: I'm still a NOOB
 
